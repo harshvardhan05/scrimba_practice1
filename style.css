@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+header{
+    margin: 45px 0 ; 
+}
+h1{
+    font-size: 48px;
+    color: #2e7ad3;
+}
+h2{
+    color: #104c90;
+    font-size: 32px;
+    margin:10px 0;
+}
+a{
+    color: #ff8000;
+}
+p{
+    font-size: 16px;
+    margin-bottom: 9px;
+}
+.main-content{
+    width: 500px;
+    text-align: left;
+    background:#f1f1f1;
+    border: none;
+    margin:0 auto;
+    padding: 10px; 
+    align-items: center;    
+}
+.description{
+    margin: 25px 0;
+    
+}
